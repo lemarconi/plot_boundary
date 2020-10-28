@@ -6,7 +6,7 @@
 name=Plot Boundary
 qgisMinimumVersion=3.0
 description=Generate plot boundary
-version=0.1
+version=0.1.1
 author=Jinha Jung
 email=jinha@purdue.edu
 
@@ -29,7 +29,7 @@ homepage=http://gdslab.org
 category=Vector
 icon=icon.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
