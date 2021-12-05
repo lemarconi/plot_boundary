@@ -6,7 +6,7 @@
 name=Plot Boundary
 qgisMinimumVersion=3.0
 description=Generate plot boundary
-version=0.1.1
+version=0.1.2
 author=Jinha Jung
 email=jinha@purdue.edu
 
