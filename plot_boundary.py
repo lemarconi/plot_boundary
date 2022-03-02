@@ -336,9 +336,9 @@ class PlotBoundary:
                 layer.CreateFeature(ft)
 
                 # Destroy before going to next plot
-                poly_geom.Destroy()
-                ring_geom.Destroy()
-                ft.Destroy()
+                #poly_geom.Destroy()
+                #ring_geom.Destroy()
+                #ft.Destroy()
 
         # Destroy data source to close out the file
         ds = None
